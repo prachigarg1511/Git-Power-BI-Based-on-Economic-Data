@@ -1,0 +1,12 @@
+Project: Submission 
+
+
+For this project, I selected a comprehensive dataset from Kaggle that contains rich and relevant business information. Using Power BI, I meticulously cleaned and transformed the raw data to ensure accuracy and consistency, addressing missing values, data type mismatches, and outliers. I leveraged Power Query’s robust ETL capabilities to shape the data, enabling smooth and efficient modeling.
+
+I built a well-structured data model by defining relationships between tables, optimizing for performance and usability. To enhance analytical depth, I developed a variety of DAX (Data Analysis Expressions) measures that enable dynamic calculations such as year-over-year growth, cumulative totals, percentage contributions, and category-wise aggregations. These measures provide critical insights into key business metrics, helping identify trends, performance gaps, and opportunities.
+
+The dashboard features a diverse range of interactive visuals tailored for intuitive exploration and decision-making. I integrated slicers to allow users to filter data across multiple dimensions such as time periods, product categories, and geographical regions. Visuals include line charts for trend analysis, bar charts for comparative insights, donut charts for category distribution, KPI cards to highlight key performance indicators, and geographic maps to visualize regional performance.
+
+Attention was given to the design and user experience to create a clean, professional, and engaging report layout. I ensured that the visualizations not only convey data accurately but also tell a compelling story, guiding users through meaningful narratives and actionable insights.
+
+Overall, this project demonstrates my proficiency in end-to-end Power BI development — from data ingestion and transformation to advanced DAX calculations and polished interactive dashboard creation. It showcases my ability to translate complex datasets into clear, insightful, and visually appealing business intelligence solutions that support strategic decision-making.
