@@ -1,6 +1,7 @@
 # Git-Power-BI-Based-on-Economic-Data
 
-📊 Git Power BI Based on Economic Data
+## 📊 Git Power BI Based on Economic Data
+
 📌 Project Overview
 This project is a Power BI dashboard created to analyze and visualize economic data using interactive reports.
 The goal of this project is to understand trends, patterns, and insights from economic indicators with the help of data visualization.
